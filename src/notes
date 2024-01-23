@@ -1,0 +1,11 @@
+Introduction to React -> Fundamentals (Why React? Advantatages of react? Virtual Dom. Reactive Programming)
+React Setup -> Initialize a react app -> done
+React Basics and Components -> How to make a react component -> done
+State and Event Handling -> How to catch events on those components
+Conditional Rendering -> How to render 
+Handling Side Effects
+HTTP Calls using Axios
+Redux
+React Router
+Adding Authentication
+Deployment
